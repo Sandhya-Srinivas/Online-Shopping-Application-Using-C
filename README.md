@@ -1,9 +1,9 @@
-#Online Shopping Application using C
+# Online Shopping Application using C
 
-Online Shopping Application:
+### Online Shopping Application
 
 The application presents the usage of linked lists in C.
-It has following modules
+It has following modules:
 1.	New user
 It accepts new users
 (Since, the program is not using any permanent storage structures, the data should be entered each time the program is run)
